@@ -10,7 +10,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigorjsf&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
-### Languages I've Worked with
+### Languages I've worked with
 <div style="display: inline_block"><br>
   <img align="center" alt="Rodrigo-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Rodrigo-Go" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg">
