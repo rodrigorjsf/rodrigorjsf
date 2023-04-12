@@ -2,6 +2,7 @@
 
 - 🔭 I’m currently working as a backend developer at Banco Inter.
 - 🌱 I’m currently learning development strategies in microservices architecture, Cloud AWS development, containers and also introducing myself to the Go language.
+  - Currently studying a postgraduate course in Software Engineering at PUC-Minas   
 - 😄 Pronouns: He/Him Ele/Dele
 
 <div align="center">
@@ -23,8 +24,10 @@
 ### Some of the frameworks/technologies I've worked with
 <div style="display: inline_block"><br>
   <img align="center" alt="Rodrigo-Spring" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
+  <img align="center" alt="Rodrigo-Micronaut" height="40" width="50" src="https://objectcomputing.com/files/2616/2275/4406/micronaut_stacked_black.svg">
   <img align="center" alt="Rodrigo-Aws" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg">
   <img align="center" alt="Rodrigo-Docker" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
+  <img align="center" alt="Rodrigo-Kubernetes" height="40" width="50" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/kubernetes/kubernetes-plain-wordmark.svg">
 </div>
 
   ##
