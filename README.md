@@ -25,7 +25,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Rodrigo-Spring" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
   <img align="center" alt="Rodrigo-Micronaut" height="40" width="50" src="https://objectcomputing.com/files/2616/2275/4406/micronaut_stacked_black.svg">
-  <img align="center" alt="Rodrigo-Aws" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg">
+  <img align="center" alt="Rodrigo-Aws" height="40" width="50" src="https://icon.icepanel.io/Technology/png-shadow-512/AWS.png">
   <img align="center" alt="Rodrigo-Docker" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
   <img align="center" alt="Rodrigo-Kubernetes" height="40" width="50" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/kubernetes/kubernetes-plain-wordmark.svg">
 </div>
